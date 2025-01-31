@@ -1,20 +1,5 @@
 <h1 align="center">Reproducability Study: Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery</h1>
 
-<div align="center">
-  Original Authors:
-<a href="https://sukrutrao.github.io">Sukrut Rao*</a>,
-<a href="https://swetamahajan.github.io">Sweta Mahajan*</a>,
-<a href="https://moboehle.github.io">Moritz Böhle</a>,
-<a href="https://people.mpi-inf.mpg.de/~schiele">Bernt Schiele</a>
-
-<div align="center">
-  Authors Reproduction:
-<a href="https://fbyrman.github.io">Freek Byrman</a>,
-<a href="https://swetamahajan.github.io">Emma Kasteleyn</a>,
-<a href="https://moboehle.github.io">Bart Kuipers</a>,
-<a href="https://daniuyter.github.io">Daniel Uijterlinde</a>
-
-</div>
 
 
 </p>
