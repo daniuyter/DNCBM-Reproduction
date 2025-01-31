@@ -1,7 +1,12 @@
 <h1 align="center">Reproducability Study: Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery</h1>
 
 
-## For an interactive walkthrough with our results, as well as some visualizations, download <a href= > </a>
+### For an interactive walkthrough with our results, as well as some visualizations:
+1. Clone this repository
+2. Download <a href=https://drive.google.com/drive/folders/1Sy5qPX0tr2rLEI_6Sh5ZqTC-0kfKlLUL?usp=share_link>this</a> folder, and place the 2 folders inside this repository.
+3. Open the repository on Google Colab
+
+
 </p>
 
 ## Below, we have adapted the original README.md file from the authors of the paper, which can be found <a href="https://github.com/neuroexplicit-saar/Discover-then-Name/blob/main/README.md">here</a>.
